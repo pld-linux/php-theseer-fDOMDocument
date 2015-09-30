@@ -4,12 +4,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	An Extension to PHP standard DOM
 Name:		php-theseer-fDOMDocument
-Version:	1.5.0
+Version:	1.6.1
 Release:	1
 License:	BSD License
 Group:		Development/Languages/PHP
 Source0:	http://pear.netpirates.net/get/%{pearname}-%{version}.tgz
-# Source0-md5:	457e58c1babe379d9c5e1fa61e910a4e
+# Source0-md5:	9ab93fc04551f4f461e38ce5582e8d0c
 URL:		https://github.com/theseer/fDOMDocument
 BuildRequires:	php-channel(pear.netpirates.net)
 BuildRequires:	php-packagexml2cl
