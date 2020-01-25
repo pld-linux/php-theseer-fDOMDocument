@@ -1,7 +1,6 @@
 %define		status		stable
 %define		pearname	fDOMDocument
 %define		php_min_version 5.3.3
-%include	/usr/lib/rpm/macros.php
 Summary:	An Extension to PHP standard DOM
 Name:		php-theseer-fDOMDocument
 Version:	1.6.1
